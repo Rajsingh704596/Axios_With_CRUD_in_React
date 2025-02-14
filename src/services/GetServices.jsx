@@ -1,5 +1,6 @@
 //! Axios use better way for CRUD operation( Work(HTTP method)- Create(Post), Read(Get), Update(Put / Patch), Delete(Delete))  -
 
+//* e.g of url
 //todo-  http://www.pronteff.com/page.html?parameter1=[@field:fieldname1]&parameter2=[@field:fieldname2]
 //todo-  URL- http://www.pronteff.com/page.html  , Query String Begin -? , Parameter Name-parameter1 , Parameter Value-[@field:field_name1] , Query String Separator - &
 

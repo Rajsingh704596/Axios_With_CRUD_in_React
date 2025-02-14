@@ -51,9 +51,9 @@ export const CrudWithAxios = () => {
 
   return (
     <>
-      <h1>Show The Data using Axios with Api call</h1>
+      <h1 className="heading">Json Api call using Axios and Perform CRUD Operation </h1>
       <div className="container">
-        <section>
+        <section className="form">
            <FormPostData jsonData={jsonData} setJsonData={setJsonData} editUpdateData={editUpdateData} setEditUpdateData={setEditUpdateData}/>  {/* form data ko jsonData m add kar ne k li ye useState pass ki ya gaya hai   */}
         </section>
       <ol>

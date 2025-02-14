@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-    <h1>Axios</h1>
+  
     {/* <AxiosNormalWay/> */}
     <CrudWithAxios/>
     </>
